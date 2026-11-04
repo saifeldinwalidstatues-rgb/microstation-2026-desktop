@@ -1,0 +1,9 @@
+.env
+.env.local
+.cache/
+.next/
+.pnpm-store/
+build/
+dist/
+.DS_Store
+_site/
